@@ -1,11 +1,10 @@
-# [The Hewra](https://github.com/TheHewra)
+# [Sweet-Reborn](https://github.com/TheHewra](https://github.com/Sweet-Reborn)
 
 ## Device Trees for Redmi Note 10 Pro (sweet)
 
 ### Join: [Group](https://t.me/skibidibuilds) | [Channel](https://t.me/niedzielawieczur)
 
-> Bo jak nie schody do nieba
-> To winda do piekła i gleba
+> This is the backup repo for mikoker Sir
 
 ---
 
